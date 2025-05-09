@@ -4,17 +4,37 @@
 | Datum | Version | Zusammenfassung |
 | --- | --- | --- |
 | 02.05.2025 | 0.0.1 | Heute habe ich an meinem Modell für das Modell 259 gearbeitet. |
-|     | ... |     |
+| 09.05.2025 | 0.0.2 | Heute habe ich viel Dinge getan, zum einen habe ich kleinere Anpassungen an meiner Portfoliowebsite vorgenommen, zum anderen habe ich an ML Modell vom Model 259 gearbeitet aber auch schon damit begonnen mich in WPF einzuarbeiten um mein nächstes Projekt realisieren zu können.|
 |     | 1.0.0 |     |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Um auf meiner Portfolio Website ein weiteres Projekt "auszustellen" möchte ich in dieser Lernperiode ein Porjekt mit C# umsetzen, vorzugsweise mit WPF eine Desktopapp erstellen.
+Um auf meiner Portfolio Website ein weiteres Projekt "auszustellen" möchte ich in dieser Lernperiode ein Porjekt mit C# umsetzen, vorzugsweise mit WPF eine Desktopapp erstellen. Diese WPF Desktopapp sollte dann einen Portfolioverwalter werden welcher via API Finanzdaten darstellen kann.
 
 
+1.2 User Stories
 
+| US-№ | Verbindlichkeit | Typ | Beschreibung |
+| --- | --- | --- | --- |
+| 1   |     |     | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| ... |     |     |     |
+
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
+### 1.3 Testfälle
+
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| --- | --- | --- | --- |
+| 1.1 |     |     |     |
+| ... |     |     |     |
+
+✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
+### 1.4 Diagramme
+
+✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
