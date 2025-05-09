@@ -11,7 +11,8 @@
 
 ### 1.1 Ihr Projekt
 
-Noch unklar.
+Um auf meiner Portfolio Website ein weiteres Projekt "auszustellen" möchte ich in dieser Lernperiode ein Porjekt mit C# umsetzen, vorzugsweise mit WPF eine Desktopapp erstellen.
+
 
 
 
