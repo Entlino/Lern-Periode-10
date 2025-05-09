@@ -1,12 +1,9 @@
 # Lern-Periode-10
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 | Datum | Version | Zusammenfassung |
 | --- | --- | --- |
-|     | 0.0.1 | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 02.05.2025 | 0.0.1 | Heute habe ich an meinem Modell für das Modell 259 gearbeitet. |
 |     | ... |     |
 |     | 1.0.0 |     |
 
@@ -14,31 +11,9 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Noch unklar.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
-### 1.2 User Stories
-
-| US-№ | Verbindlichkeit | Typ | Beschreibung |
-| --- | --- | --- | --- |
-| 1   |     |     | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ... |     |     |     |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
-### 1.3 Testfälle
-
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| --- | --- | --- | --- |
-| 1.1 |     |     |     |
-| ... |     |     |     |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
